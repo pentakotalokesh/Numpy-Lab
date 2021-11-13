@@ -1,0 +1,16 @@
+1) NumPy Installation using different scientific python distributions( Anaconda,
+Python(x,y), WinPython, Pyzo)
+2) NumPy Basics (np.array, np.arrange, np.linespace, np.zeros, np.ones,
+np.random.random, np.empty)
+3) Arrays ( array.shape, len(array), array.ndim, array.dtype, array.astype(type),
+type(array))
+4) Array Manipulation (np.append, np.insert, np.resize, np.delete, np.concatenate,
+np.vstack, np.hstack)
+5) Mathematical Operations( np.add, np.substract, np.divide, np.multiply, np.sqrt, np.sin,
+np.cos, np.log, np.dot, np.roots) , Statistical Operations( np.mean, np.median, np.std,
+array.corrcoef( ) )
+6) NumPy data types
+7) NumPy ndarray
+8) NumPy String Operations
+9) NumPy Financial functions
+10) NumPy Functional Programming
